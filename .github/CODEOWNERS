@@ -1,0 +1,9 @@
+# Source Files Reviewer
+src/* @thecodechef
+
+# Sublime Files Reviewer
+
+*.sublime-* @thecodechef
+
+# Markdown Files Reviewer
+*.md @thecodechef
